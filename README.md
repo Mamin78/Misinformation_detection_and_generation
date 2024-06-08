@@ -1,2 +1,1 @@
-# Misinformation_detection_and_generation
-RNNs and LLMs in the Battleground of Fake News: Detection and Generation
+# Exploring the Dual Role of AI: RNNs and BERT for Fake News Detection and LLMs for Fake News Generation: Detection and Generation
