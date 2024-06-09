@@ -1,7 +1,3 @@
-Given the files available in the repository, here's a brief README.md for your GitHub repository:
-
----
-
 # Exploring the Dual Role of AI: RNNs and BERT for Fake News Detection and LLMs for Fake News Generation
 
 This repository contains the code and data associated with the paper "Exploring the Dual Role of AI: RNNs and BERT for Fake News Detection and LLMs for Fake News Generation" by Mohammadamin Shafiei. The paper explores how AI can be utilized for both detecting fake news and generating it, highlighting the capabilities and challenges posed by modern AI technologies in the realm of misinformation.
